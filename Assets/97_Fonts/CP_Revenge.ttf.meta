@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 17fab3cd6b2ef954c9b0e160e1d5dc39
+timeCreated: 1502257795
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CP_Revenge
+  fontNames:
+  - CP_Revenge
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
